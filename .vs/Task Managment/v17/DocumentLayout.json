@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8673DAF7-2C4E-4372-BF4E-5012ADE6622E}|Task Managment.DAL\\Task Managment.DAL.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment.dal\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8673DAF7-2C4E-4372-BF4E-5012ADE6622E}|Task Managment.DAL\\Task Managment.DAL.csproj|solutionrelative:task managment.dal\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8673DAF7-2C4E-4372-BF4E-5012ADE6622E}|Task Managment.DAL\\Task Managment.DAL.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment.dal\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8673DAF7-2C4E-4372-BF4E-5012ADE6622E}|Task Managment.DAL\\Task Managment.DAL.csproj|solutionrelative:task managment.dal\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment.bll\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|solutionrelative:task managment.bll\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8673DAF7-2C4E-4372-BF4E-5012ADE6622E}|Task Managment.DAL\\Task Managment.DAL.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment.dal\\task managment.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8673DAF7-2C4E-4372-BF4E-5012ADE6622E}|Task Managment.DAL\\Task Managment.DAL.csproj|solutionrelative:task managment.dal\\task managment.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment.bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|solutionrelative:task managment.bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment.bll\\dtos\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|solutionrelative:task managment.bll\\dtos\\applicationuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment.bll\\dtos\\applicationuserdisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|solutionrelative:task managment.bll\\dtos\\applicationuserdisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment.bll\\task managment.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1FADC27-3735-4F52-8B53-1457C3C9DBF1}|Task Managment.bll\\Task Managment.BLL.csproj|solutionrelative:task managment.bll\\task managment.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CE83B6-DD8F-4208-91D0-516FA8849C98}|Task Managment\\Task Managment.csproj|c:\\users\\ahmed.aboelella\\source\\repos\\task managment\\task managment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CE83B6-DD8F-4208-91D0-516FA8849C98}|Task Managment\\Task Managment.csproj|solutionrelative:task managment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.DAL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Task Managment.DAL\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.DAL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Task Managment.DAL\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:13:23.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.DAL\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Task Managment.DAL\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.DAL\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "Task Managment.DAL\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:13:09.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task Managment.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.DAL\\Task Managment.DAL.csproj",
+              "RelativeDocumentMoniker": "Task Managment.DAL\\Task Managment.DAL.csproj",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.DAL\\Task Managment.DAL.csproj",
+              "RelativeToolTip": "Task Managment.DAL\\Task Managment.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T17:10:04.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Task Managment.bll\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\Services\\AuthService.cs",
+              "RelativeToolTip": "Task Managment.bll\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:07:55.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Task Managment.bll\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Task Managment.bll\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:07:49.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\DTOs\\ApplicationUserDTO.cs",
+              "RelativeDocumentMoniker": "Task Managment.bll\\DTOs\\ApplicationUserDTO.cs",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\DTOs\\ApplicationUserDTO.cs",
+              "RelativeToolTip": "Task Managment.bll\\DTOs\\ApplicationUserDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:32:29.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUserDisplayDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\DTOs\\ApplicationUserDisplayDTO.cs",
+              "RelativeDocumentMoniker": "Task Managment.bll\\DTOs\\ApplicationUserDisplayDTO.cs",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\DTOs\\ApplicationUserDisplayDTO.cs",
+              "RelativeToolTip": "Task Managment.bll\\DTOs\\ApplicationUserDisplayDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:32:00.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task Managment.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\Task Managment.BLL.csproj",
+              "RelativeDocumentMoniker": "Task Managment.bll\\Task Managment.BLL.csproj",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment.bll\\Task Managment.BLL.csproj",
+              "RelativeToolTip": "Task Managment.bll\\Task Managment.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T22:31:55.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Task Managment\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ahmed.aboelella\\source\\repos\\Task Managment\\Task Managment\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Task Managment\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA9wB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:31:35.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
